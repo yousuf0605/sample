@@ -1,0 +1,15 @@
+{
+
+"name" : "bala",
+"email" : "bala@gmail.com",
+"phoneNo":8870993415,
+"course" : [{"firstname" : "yousuf", "testdetails" : "Java", "location" : "chennai"},
+{"firstname" : "irfan", "testdetails" : "sql", "location" : "andhra"
+
+}]
+
+
+
+
+
+}
